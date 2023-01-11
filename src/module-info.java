@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author ricardoazeredo
+ *
+ */
+module escola {
+}
